@@ -83,5 +83,10 @@
         Console.WriteLine();
 
         Print(arr1);
+        ///////////////////////kkkkkkn   te
+        ///
+
+
+
     }
 }
